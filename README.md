@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Haesou 👋
 
-<!--
-**Haesou/Haesou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Math + CS @ UChicago '30, interested in software engineering and quantitative trading.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Opportunity Rank](https://github.com/Haesou/opportunity-rank)
+A personalized job recommender that ranks real job postings by fit to a user's preferences, using engineered features (topic, seniority, company, region) and logistic regression trained on hand-labeled feedback.
+
+`Python` · `scikit-learn`
+
+### [MU/WDC Pairs Trading Backtester](https://github.com/Haesou/mu-wdc-pairs-backtester) 🚧 *in progress*
+A backtester that tests mean-reversion against momentum on Micron/Western Digital's price ratio, using z-score signals, ADF stationarity testing, and benchmarking against buy-and-hold.
+
+`Python` · `pandas` · `NumPy` · `statsmodels` · `yfinance`
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/haesouim/) · haesouim@uchicago.edu
